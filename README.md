@@ -1,1 +1,1 @@
-This is the repository for my personal website: rastri-dey.github.io
+This is the repo for my personal site.
