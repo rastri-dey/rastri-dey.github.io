@@ -11,7 +11,7 @@ title                    : "Rastri Dey"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
-url                      : rastri-dey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rastri-dey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rastri-dey/rastri-dey.github.io"
 teaser                   : "profile.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
-  avatar           : ""
-  bio              : ""
-  location         : ""
+  name             : #""
+  avatar           : #"dp.jpg"
+  bio              : #"Postdoctoral Fellow at Harvard John A. Paulson School of Engineering and Applied Sciences"
+  location         : #"Pierce Hall 402"
   employer         :
   pubmed           : 
-  googlescholar    : ""
-  email            : ""
+  googlescholar    : #"https://scholar.google.com/citations?user=avCT9EAAAAAJ&hl=en"
+  email            : #"Indranil_Halder@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : #"I-Halder"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #""
   lastfm           :
-  linkedin         : ""
+  linkedin         : #"indranil-halder"
   orcid            : 
   pinterest        :
   soundcloud       :
