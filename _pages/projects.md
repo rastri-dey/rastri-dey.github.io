@@ -34,5 +34,5 @@ Industry
 
 **Path Planning and Controls**
 
-* Developed a path planning and motion control system using fuzzy based control, for parallel parking solution,
+* Developed a path planning and motion control system using fuzzy based control, for parallel parking solution
 * More details of the project: [Path Planning and Controls](https://ieeexplore.ieee.org/abstract/document/9367343)
