@@ -36,3 +36,10 @@ Industry
 
 * Developed a path planning and motion control system using fuzzy based control, for parallel parking solution
 * More details of the project: [Path Planning and Controls](https://ieeexplore.ieee.org/abstract/document/9367343)
+
+**Path Prediction and Motion Planning**
+
+* Developed a path prediction model to estimate collision between pedestrian and vehicle
+* Built robust and safe controllers based on the estimated trajectory
+* More details of the project: [Path Prediction and Motion Planning](https://patents.google.com/patent/US12103521B2/en)
+
